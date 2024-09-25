@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    version="1.1" class="me-3" width="3em" height="3em" viewBox="0 0 640 512"
+                                    lc-helper="svg-icon" fill="currentColor">
+                                    <path
+                                        d="M634.9 462.7l-288-448C341 5.5 330.9 0 320 0s-21 5.5-26.9 14.7l-288 448a32 32 0 0 0 -1.2 32.6A32 32 0 0 0 32 512h576c11.7 0 22.5-6.4 28.1-16.7a32 32 0 0 0 -1.2-32.6zM320 91.2L405.4 224H320l-64 64-38.1-38.1L320 91.2z" />
+                                </svg>
