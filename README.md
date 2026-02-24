@@ -1,2 +1,2 @@
-# mailing.sanblasreservaambiental.org
-Repository for email marketing emails for San Blas Reserva Ambiental
+# emailing.sanblasreservaambiental.org
+Repository for emailing for San Blas Reserva Ambiental
